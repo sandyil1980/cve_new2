@@ -1,0 +1,5 @@
+DEBUG   2021-09-22 16:12:33,285 [AWT-EventQueue-0] AI  - Update daemon code analyzer
+INFO    2021-09-22 16:12:33,293 [DefaultDispatcher-worker-6] com.ptsecurity.aiintellij.services.ProjectContextInitializer  - Plugin context initialized
+INFO    2021-09-22 16:12:33,293 [DefaultDispatcher-worker-6] com.ptsecurity.aiintellij.services.ProjectContextInitializer  - Plugin context initialized
+INFO    2021-09-22 16:12:33,968 [DefaultDispatcher-worker-2] kotlinx.coroutines.BlockingCoroutine  - Infrastructure initialized
+INFO    2021-09-22 16:12:33,968 [DefaultDispatcher-worker-2] kotlinx.coroutines.BlockingCoroutine  - Infrastructure initialized

@@ -1,0 +1,5 @@
+INFO    2021-09-22 17:02:15,852 [DefaultDispatcher-worker-3] com.ptsecurity.aiintellij.services.SaveFileListener$Companion  - SaveFileListener initialized
+INFO    2021-09-22 17:02:15,882 [DefaultDispatcher-worker-2] kotlinx.coroutines.StandaloneCoroutine  - Infrastructure assembly folder path: C:\Program Files\Positive Technologies\Application Inspector Infrastructure
+INFO    2021-09-22 17:02:15,888 [DefaultDispatcher-worker-2] com.ptsecurity.aiintellij.services.ProjectContextInitializer  - Found port: 10176
+INFO    2021-09-22 17:02:16,147 [DefaultDispatcher-worker-2] com.ptsecurity.aiintellij.services.ProjectContextInitializer  - Plugin context initialized
+INFO    2021-09-22 17:02:18,270 [DefaultDispatcher-worker-1] kotlinx.coroutines.BlockingCoroutine  - Infrastructure initialized

@@ -1,0 +1,6 @@
+INFO    2021-09-23 13:32:48,161 [DefaultDispatcher-worker-2] com.ptsecurity.aiintellij.services.SaveFileListener$Companion  - SaveFileListener initialized
+INFO    2021-09-23 13:32:48,161 [DefaultDispatcher-worker-4] kotlinx.coroutines.StandaloneCoroutine  - Infrastructure assembly folder path: C:\Program Files\Positive Technologies\Application Inspector Infrastructure
+INFO    2021-09-23 13:32:48,223 [DefaultDispatcher-worker-4] com.ptsecurity.aiintellij.services.ProjectContextInitializer  - Found port: 1874
+INFO    2021-09-23 13:32:49,678 [DefaultDispatcher-worker-4] com.ptsecurity.aiintellij.services.ProjectContextInitializer  - Plugin context initialized
+INFO    2021-09-23 13:32:56,871 [DefaultDispatcher-worker-4] kotlinx.coroutines.BlockingCoroutine  - Infrastructure initialized
+WARN    2021-09-23 16:16:47,264 [DefaultDispatcher-worker-4] AI  - java.io.IOException: An existing connection was forcibly closed by the remote host
